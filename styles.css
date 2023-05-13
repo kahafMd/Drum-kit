@@ -25,27 +25,27 @@ background : url("/Drum-kit/images/crash.png") no-repeat center 20px/cover;
 }
 
 .a {
-  background : url("/images/kick.png") no-repeat center 20px/cover;
+  background : url("/Drum-kit/images/kick.png") no-repeat center 20px/cover;
 }
 
 .s {
-  background : url("/images/snare.png") no-repeat center 20px/cover;
+  background : url("/Drum-kit/images/snare.png") no-repeat center 20px/cover;
 }
 
 .d {
-  background : url("/images/tom1.png") no-repeat center 20px/cover;
+  background : url("/Drum-kit/images/tom1.png") no-repeat center 20px/cover;
 }
 
 .j {
-  background : url("/images/tom2.png") no-repeat center 20px/cover;
+  background : url("/Drum-kit/images/tom2.png") no-repeat center 20px/cover;
 }
 
 .k {
-  background : url("/images/tom3.png") no-repeat center 20px/cover;
+  background : url("/Drum-kit/images/tom3.png") no-repeat center 20px/cover;
 }
 
 .l {
-  background : url("/images/tom4.png") no-repeat center 20px/cover;
+  background : url("/Drum-kit/images/tom4.png") no-repeat center 20px/cover;
 }
 
 .set {
